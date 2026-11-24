@@ -1,1 +1,1 @@
-# Magazin_Jocuri_Video_BD
+# Aplicatie_Cabinet_Psihologic_BD
